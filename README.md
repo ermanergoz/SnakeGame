@@ -1,4 +1,5 @@
 # SnakeGame
 
-This is a simple snake game written in C programming language. \n
-2015.
+This is a simple snake game written in C programming language. 
+
+November 2015.
