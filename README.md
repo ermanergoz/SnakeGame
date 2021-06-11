@@ -20,9 +20,9 @@ The snake continually gets longer as it moves. The player loses when the snake r
 
 - Open a command prompt or a terminal window and go to the directory where you saved the repository.
 
-- Type ```sh gcc –Wall main.c –o main ``` and press enter to compile your code. If you want use clang instead, type ```sh clang main.c -o main ```
+- Type ```sh gcc –Wall main.c –o main``` and press enter to compile your code. If you want use clang instead, type ```sh clang main.c -o main```
 
-- Now, type ```sh ./main ``` to run the program.
+- Now, type ```sh ./main``` to run the program.
 
 - You will be able to see the Console Snake Game window.
 
